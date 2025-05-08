@@ -1,3 +1,4 @@
+//Dada una lista con 5 enteros imprimir la lista//
 #include <stdio.h>
 
 int main()
